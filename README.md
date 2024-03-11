@@ -17,19 +17,17 @@ Olá! Sou Davi, um professor de robótica e web design, apaixonado por tecnologi
 - **Certificado em POO Java**
 
 ## Habilidades Técnicas
-- Desenvolvimento Web: HTML5, CSS3, JavaScript, Bootstrap
-- Linguagens de Programação: Java, C++
-- Ferramentas e Frameworks: SwiftUI, Node, Cloudant, REST APIs
+- Desenvolvimento Web: HTML5, CSS3, JavaScript, Typescript
+- Linguagens de Programação: C++, Python, Java
+- Ferramentas e Frameworks: NextJS
 
 ## Formação Acadêmica
 - **Sistemas de Informação na UFU** (em andamento)
 
-## Em Busca de Oportunidades
-Estou aberto a oportunidades que me permitam aplicar minha paixão por ensinar e criar soluções inovadoras em tecnologia.
 
 ## Contato
 - 📫 Email: davi.faria@ufu.br
-- 📱 Telefone: [+55 34 998 676 876]
+
 
 ---
 
