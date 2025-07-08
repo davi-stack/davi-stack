@@ -4,8 +4,8 @@
 Olá! Sou Davi, um professor de robótica e web design, apaixonado por tecnologia e inovação. Atualmente estou aprimorando meus conhecimentos em Sistemas de Informação na UFU e buscando novas oportunidades de colaboração e desenvolvimento.
 
 ## Experiência Profissional
+- **Brain** : P&D - IA
 - **Oficina do Amanhã**: Ensino de robótica e web design, com foco em projetos práticos utilizando Arduino, C++, HTML5/CSS3, JavaScript e Bootstrap.
-- **Ferragista Forte**: Atendimento ao cliente e suporte técnico, gerenciamento de documentação fiscal.
   
 ## Projetos Técnicos
 - **ChatBot com Streamlit e OpenAI**: Criação de um ChatBot que realiza buscas semânticas e manipula dados em Google Sheets.
